@@ -1,4 +1,1 @@
-@import {{ style.thmem }};
-header {
-   background: black;
-}
+@import "{{ jekyll-theme-cayman }}";
