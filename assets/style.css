@@ -1,6 +1,6 @@
 @import "{{ jekyll-theme-cayman }}";
 
-body {
+/* body {
 	background: lightcyan;
 	width: 800px;
 	margin: auto;
@@ -16,3 +16,4 @@ p {
 	border: 1px solid gray;
 	padding: 10px;
 }
+ */
