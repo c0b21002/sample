@@ -1,3 +1,7 @@
+---
+---
+@import "{{ site.thmem }}"
+
 body {
 	background: lightcyan;
 	width: 800px;
